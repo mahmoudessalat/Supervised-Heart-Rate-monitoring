@@ -1,13 +1,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Demo Codes For: 
-%      ìSupervised Heart Rate Tracking using Wrist-Type Photoplethysmographic (PPG)
-%       Signals during Physical Exercise without Simultaneous Acceleration Signalsî
+%      ‚ÄúSupervised Heart Rate Tracking using Wrist-Type Photoplethysmographic (PPG)
+%       Signals during Physical Exercise without Simultaneous Acceleration Signals‚Äù
 %
-% References:
+% Please cite:
 %
-%  [1] M. Essalat, M. Boloursaz, and F. Marvasti, ìSupervised Heart Rate 
+%  [1] M. Essalat, M. Boloursaz, and F. Marvasti, ‚ÄúSupervised Heart Rate 
 %      Tracking using Wrist-Type Photoplethysmographic (PPG) Signals during
-%      Physical Exercise without Simultaneous Acceleration Signalsî 
+%      Physical Exercise without Simultaneous Acceleration Signals‚Äù 
 %      submitted to the 4th IEEE Global Conference on Signal and 
 %      Information Processing (GlobalSIP), Washington, DC, USA, December 2016.
 %
@@ -20,7 +20,7 @@
 % Electrical Engineering Department, Sharif University of Technology
 %                              Tehran, Iran
 %
-% For any problem, contact me at esalat_mahmoud@ee.sharif.edu
+% For any problem, contact me at mahmoudessalat@ucla.edu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Instructions to Use:
 1)create a New folder and rename it to DATASET and place it in the downloaded codes directory
