@@ -11,6 +11,8 @@
 %      submitted to the 4th IEEE Global Conference on Signal and 
 %      Information Processing (GlobalSIP), Washington, DC, USA, December 2016.
 %
+%  DOI for this repo: https://zenodo.org/badge/latestdoi/208712841
+%
 % Written By: 
 %       Mahmoud Essalat
 %           
